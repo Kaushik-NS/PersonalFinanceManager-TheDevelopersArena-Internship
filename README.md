@@ -44,3 +44,14 @@ reports/
 1. Database integration
 2. GUI application
 3. Cloud backup
+
+---
+
+## **Requirements**
+
+This project uses a few external Python libraries for generating reports and visualizations.
+
+Before running the project, install the required dependencies using:
+
+```bash
+pip install -r requirements.txt
