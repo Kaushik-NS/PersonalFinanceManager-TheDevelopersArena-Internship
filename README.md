@@ -1,2 +1,33 @@
-# PersonalFinanceManager-TheDevelopersArena-Internship
-The Personal Finance Manager is a Python-based console application designed to help users track and manage their daily expenses with reporting and visualization.
+**Personal Finance Manager**
+
+**Overview:-**
+A Python console-based application to manage personal expenses with reporting and visualization.
+
+
+**Features:-**
+• Add expenses
+• View all expenses
+• Category-wise summary
+• Monthly PDF reports
+• CSV storage
+
+
+**How to Run:-**
+1. Install Python 3.x
+2. Run: python main.py
+
+
+**Project Structure:-**
+main.py
+menuhandler.py
+ExpenseClass.py
+file_manager.py
+reports.py
+data/
+reports/
+
+
+**Future Enhancements:-**
+• Database integration
+• GUI application
+• Cloud backup
