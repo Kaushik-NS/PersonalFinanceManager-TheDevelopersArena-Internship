@@ -28,3 +28,19 @@ A Python console-based application to manage personal expenses with reporting an
 2. Run the application:
    ```bash
    python main.py
+
+## **Project Structure**
+
+main.py
+menuhandler.py
+ExpenseClass.py
+file_manager.py
+reports.py
+data/
+reports/
+
+## **Future Enhancements**
+
+1. Database integration
+2. GUI application
+3. Cloud backup
