@@ -1,0 +1,2 @@
+matplotlib - Used to generate charts and monthly visual reports
+reportlab - Used to create PDF expense reports
